@@ -19,3 +19,7 @@ h2 {
   text-align: center;
   color: #FF7F50;
 }
+.main-image {
+  border: solid 3px #FF7F50;
+  border-radius: 50%
+}
