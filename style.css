@@ -8,13 +8,12 @@ h2 {
   color: #FF7F50;
    background-color:#BDE5E1;
      text-align: center;
-  border-top: 1px solid #FF7F50;
-  border-bottom: 1px solid #FF7F50;
+  border: 2px solid #FF7F50;
+ 
 }
   
 .job-title {
-  border-top: 1px solid;
-  border-bottom: 1px solid;
+  border: 2px solid;
   background-color:#BDE5E1;
   text-align: center;
   color: #FF7F50;
